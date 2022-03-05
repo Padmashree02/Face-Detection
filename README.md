@@ -1,2 +1,2 @@
 # Face-Detection
-Detecting and extracting faces
+Detecting and extracting faces from image
