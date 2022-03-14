@@ -1,2 +1,2 @@
-# Face-Detection from an image
+# Face-Detection from an imag
 From image Detecting and extracting faces.
